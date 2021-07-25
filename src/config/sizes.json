@@ -1,0 +1,8 @@
+{
+  "sizelist": [
+    { "sizeId": "s01", "sizeName": "S" },
+    { "sizeId": "s02", "sizeName": "M" },
+    { "sizeId": "s03", "sizeName": "L" },
+    { "sizeId": "s04", "sizeName": "XL" }
+  ]
+}

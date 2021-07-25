@@ -1,0 +1,6 @@
+{
+  "genderlist": [
+    { "genderId": "g01", "genderName": "Men" },
+    { "genderId": "g02", "genderName": "Women" }
+  ]
+}

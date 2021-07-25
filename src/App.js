@@ -1,23 +1,38 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import {
+  AppBar,
+  Toolbar,
+  Typography,
+  CssBaseline,
+  Container,
+  Grid,
+} from "@material-ui/core";
+import { ProductView } from "./components/ProductView";
+import { ProductOperations } from "./components/ProductOperations";
+
 
 function App() {
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <CssBaseline />
+
+      <AppBar position="sticky">
+        <Toolbar>
+          <Typography variant="h4">Shopvy</Typography>
+        </Toolbar>
+      </AppBar>
+
+      <Container maxWidth="lg" >
+        <Grid container direction="row">
+          <Grid item style={{ width: "20%"}}>
+            <ProductOperations />
+          </Grid>
+          <Grid item style={{ width: "70%" }}>
+            <ProductView />
+          </Grid>
+        </Grid>
+      </Container>
     </div>
   );
 }

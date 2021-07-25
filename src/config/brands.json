@@ -1,0 +1,10 @@
+{
+  "brandlist": [
+    { "brandId": "b01", "brandName": "Fort Collins" },
+    { "brandId": "b02", "brandName": "VAN HEUSEN" },
+    { "brandId": "b03", "brandName": "Seven Rocks" },
+    { "brandId": "b04", "brandName": "Tokyo Talkies" },
+    { "brandId": "b05", "brandName": "Oomph" },
+    { "brandId": "b06", "brandName": "Harpa" }
+  ]
+}

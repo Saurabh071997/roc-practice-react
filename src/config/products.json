@@ -1,0 +1,63 @@
+{
+  "products": [
+    {
+      "productId": "p01",
+      "productImg": "https://rukminim1.flixcart.com/image/800/960/kr9jafk0/jacket/w/y/v/m-14740-fk-breil-by-fort-collins-original-imag538azcwwpyzb.jpeg?q=50",
+      "productBrand": "Fort Collins",
+      "productName": "Full Sleeve Solid Men Quilted Jacket",
+      "productPrice": 866,
+      "sizelist": ["S", "M", "L", "XL"],
+      "productIdeal": "Men"
+    },
+
+    {
+      "productId": "p02",
+      "productImg": "https://rukminim1.flixcart.com/image/800/960/kdrpksw0-0/t-shirt/5/p/k/m-vskpwrgp118780-van-heusen-sport-original-imafukvunnyqtkwx.jpeg?q=50",
+      "productBrand": "VAN HEUSEN",
+      "productName": "Solid Men Polo Neck Red T-Shirt",
+      "productPrice": 449,
+      "sizelist": ["L", "XL"],
+      "productIdeal": "Men"
+    },
+
+    {
+      "productId": "p03",
+      "productImg": "https://rukminim1.flixcart.com/image/800/960/khmbafk0-0/t-shirt/w/j/s/xs-t322-blwh-seven-rocks-original-imafxhagtyj2xvpn.jpeg?q=50",
+      "productBrand": "Seven Rocks",
+      "productName": "Color Block Men Round Neck Black T-Shirt",
+      "productPrice": 700,
+      "sizelist": ["S", "M"],
+      "productIdeal": "Men"
+    },
+
+    {
+      "productId": "p04",
+      "productImg": "https://rukminim1.flixcart.com/image/800/960/kffq2kw0-0/shirt/s/t/3/m-ttsh000886-tokyo-talkies-original-imafvwc874q93hhj.jpeg?q=50",
+      "productBrand": "Tokyo Talkies",
+      "productName": "Women Regular Fit Striped Spread Collar Casual Shirt",
+      "productPrice": 500,
+      "sizelist": ["S", "M", "L", "XL"],
+      "productIdeal": "Women"
+    },
+
+    {
+      "productId": "p05",
+      "productImg": "https://rukminim1.flixcart.com/image/800/960/k3ncakw0pkrrdj/top/z/c/s/l-mt192-oomph-original-imafmje2kgzhqhuy.jpeg?q=50",
+      "productBrand": "Oomph",
+      "productName": "Casual Butterfly Sleeves Floral Print Multicolor Top",
+      "productPrice": 560,
+      "sizelist": ["L", "XL"],
+      "productIdeal": "Women"
+    },
+
+    {
+      "productId": "p06",
+      "productImg": "https://rukminim1.flixcart.com/image/800/960/jeua3680/top/3/h/h/l-gr5317-maroon-harpa-original-imaf3fbyxzuev24z.jpeg?q=50",
+      "productBrand": "Harpa",
+      "productName": "Casual Regular Sleeves Striped Women Maroon Top",
+      "productPrice": 670,
+      "sizelist": ["S", "M"],
+      "productIdeal": "Women"
+    }
+  ]
+}
